@@ -133,7 +133,7 @@ Define la hora para una fecha especifica de acuerdo a la zona horaria local.
 fechaActual.setHours(16);
 ```
 
-![sethours.png](images/sethours.png)
+![sethours.png](images/setHours.png)
 
 **setMinutes()**
 
@@ -143,7 +143,7 @@ Define los minutos para una fecha especifica de acuerdo a la zona horaria local.
 fechaActual.setMinutes(58);
 ```
 
-![setminutes.png](images/setminutes.png)
+![setminutes.png](images/setMinutes.png)
 
 **setSeconds()**
 
@@ -153,7 +153,7 @@ Define los segundos para una fecha especifica de acuerdo a la zona horaria local
 fechaActual.setSeconds(23);
 ```
 
-![setseconds.png](images/setseconds.png)
+![setseconds.png](images/setSeconds.png)
 
 ## UTC: get
 
